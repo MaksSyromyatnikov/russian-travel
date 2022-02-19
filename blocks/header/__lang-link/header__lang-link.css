@@ -1,8 +1,9 @@
 .header__lang-link {
     margin: 14px 0;
+    font-weight: normal;
     font-size: 18px;
-    color: white;
     line-height: 20px;
+    color: white;
     text-decoration: none;
 }
 
