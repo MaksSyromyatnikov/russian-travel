@@ -4,7 +4,3 @@
   position: absolute;
 }
 
-.cover_.cover__overlay {
-  background-image: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url(../../images/cover/overlay.png) ;
-}
-

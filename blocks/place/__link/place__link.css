@@ -1,6 +1,6 @@
 .place__link {
   color: #FFFFFF;
-  text-decoration: underline;
+  text-decoration-line: underline;
   margin: 0;
   font-style: normal;
   font-weight: normal;

@@ -3,6 +3,7 @@
 @import url(../blocks/container/container.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-bar/header__lang-bar.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_state/header__lang-link_state-active.css);
 @import url(../blocks/lead/lead.css);
