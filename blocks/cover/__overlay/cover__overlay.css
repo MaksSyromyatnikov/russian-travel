@@ -1,5 +1,10 @@
 .cover__overlay {
   width: 100%;
-  background-image: url(../../../images/cover/overlay.png);
+  height: 100%;
+  position: absolute;
+}
+
+.cover_.cover__overlay {
+  background-image: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url(../../images/cover/overlay.png) ;
 }
 

@@ -4,4 +4,5 @@
     display: flex;
     position: relative;
     justify-content: flex-end;
+    align-content: flex-end;
 }

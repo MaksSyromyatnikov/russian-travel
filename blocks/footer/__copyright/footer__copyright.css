@@ -1,9 +1,8 @@
-.cover__subtitle {
-  margin: 0 16px 33px;
+.footer__copyright {
+  margin: 48px 0 0 0;
   color: #FFFFFF;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 16px;
-  z-index: 1;
+  line-height: 14px;
 }
