@@ -1,6 +1,11 @@
 .places {
-  width: 100%;
   margin-top: 64px;
   display: flex;
   flex-direction: column;
+}
+
+@media screen and (min-width: 764px) {
+  .places {
+    margin: 88px 24px 0;
+  }
 }

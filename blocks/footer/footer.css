@@ -2,5 +2,13 @@
   margin: 64px 118px 24px 16px;
   display: flex;
   flex-direction: column;
+}
 
+@media screen and (min-width:768px) {
+  .footer {
+    margin: 88px 24px 24px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: flex-end;
+  }
 }
