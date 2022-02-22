@@ -5,5 +5,7 @@
 @media screen and (min-width: 768px) {
   .header__logo {
     min-width: 176px;
+    overflow: hidden;
+    height: 52px;
   }
 }

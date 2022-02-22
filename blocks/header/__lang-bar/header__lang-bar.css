@@ -1,7 +1,7 @@
 .header__lang-bar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(min-content, max-content) minmax(min-content, max-content);
+  justify-self: flex-end;
   box-sizing: border-box;
   padding: 18px 0 0;
 }

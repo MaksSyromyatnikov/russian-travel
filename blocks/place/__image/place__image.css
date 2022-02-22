@@ -1,13 +1,21 @@
 .place__image {
   display: block;
+  width: 100%;
   object-fit: cover;
   margin-bottom: 32px;
 }
 
 @media screen and (min-width: 768px) {
   .place__image {
-    margin: 0;
     min-height: 340px;
     grid-area: image;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__image {
+    min-height: 440px;
+    margin: 0;
   }
 }

@@ -5,3 +5,10 @@
     flex-direction: column;
 
 }
+
+@media screen and (min-width: 1024px) {
+  .lead {
+    width: auto;
+    margin: 48px 48px 0;
+  }
+}
