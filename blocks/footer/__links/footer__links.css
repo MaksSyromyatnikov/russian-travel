@@ -8,7 +8,13 @@
   .footer__links {
     display: grid;
     grid-template-columns: repeat(5, minmax(min-content, max-content));
-    align-items: flex-end;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+  .footer__links {
+    justify-self: flex-start;
   }
 
 }
